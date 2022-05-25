@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋🏾
+
+My Name is Kelechi Ikegwu, I'm currently a Data Scientist working in Industry. 
+
+**I'm currently working on:**
+- Refactoring my personal website with Django 
+- Implementing cool simulations 😎
 
 <!--
 **ikegwukc/ikegwukc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
