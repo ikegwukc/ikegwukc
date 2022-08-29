@@ -5,7 +5,7 @@ My Name is Kelechi Ikegwu, I'm currently a Data Scientist working in Industry.
 **Outside of work I am working on:**
 - Refactoring my personal website with Django 
 - Implementing cool simulations 😎
-- Developing game with Unreal Engine 5
+- Developing metroidvanias and rougelites 
 
 <!--
 **ikegwukc/ikegwukc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
