@@ -1,11 +1,11 @@
 ### Hi there 👋🏾
 
-My Name is Kelechi Ikegwu, I'm currently a Data Scientist working in Industry. 
+My Name is Kelechi Ikegwu, I'm currently an Senior AI Engineer. 
 
 **Outside of work I am working on:**
-- Refactoring my personal website with Django 
-- Implementing cool simulations 😎
-- Developing metroidvanias and rougelites 
+- Developing a roguelite
+- Reviewing Cool Papers
+- Or hiking!
 
 <!--
 **ikegwukc/ikegwukc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
