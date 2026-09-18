@@ -1,6 +1,6 @@
 ### Hi there 👋🏾
 
-My Name is Kelechi Ikegwu, I'm currently an Senior AI Engineer. 
+My Name is Kelechi Ikegwu, I'm currently an Senior AI Engineer at MACK Trucks & Volvo Trucks. 
 
 **Outside of work I am working on:**
 - Developing a roguelite
